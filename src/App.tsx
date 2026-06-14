@@ -5,7 +5,6 @@ import HomePage from "./Components/home"
 import AboutUs from "./Components/aboutUs"
 import Footer from "./Components/footer";
 import OurWork from "./Components/ourWork";
-import contactUs from "./Components/contactus";
 import ContactUs from "./Components/contactus";
 
 
