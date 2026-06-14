@@ -27,52 +27,40 @@ const AboutUs = () => {
 
   // Structured data for staff members 2 through 9
   const teamMembers: StaffMember[] = [
+   
     {
       id: 2,
-      name: "ENGR. ASIAZOBOR PATRICK YOUNG (MNSE, COREN)",
-      title: "Senior Technical Consultant",
-      bio: "Worked and retired from NNPC as an experienced engineer. Served in various sections of the maintenance department and rose to a deputy manager position in his career. An achiever, hardworking, and ready to deliver on time any assignments placed under his authority.",
-      specialization:
-        "Pumps, Compressors, Turbines, Cooling Fans, Static Equipment, etc.",
-    },
-    {
-      id: 3,
       name: "MRS. FATIMA FRANCA SALIHU",
       title: "Chief Financial Control & Human Resources Officer",
       bio: "With over twenty-five years of service in the banking industry before retiring into self-employment as a farmer and agro-culture farming innovation. With her wealth of experience in accounting and audit departments, she stands as the Chief Financial Control and Human Resources Officer. She is a Director in SALSAL AND NIIMA PROJECT LIMITED.",
     },
     {
-      id: 4,
+      id: 3,
       name: "MR. STEPHEN OKOH",
       title: "Administrative & Operations Director",
       bio: "An astute administrator in an insurance company where he rose to the position of General Manager before his retirement from the insurance industry. He worked in several arms of the industry locally and internationally.",
     },
+    
     {
-      id: 5,
-      name: "MR. ABUBAKAR MOHAMMED AFEGBUA",
-      title: "Procurement & Property Management Specialist",
-      bio: "A graduate in agricultural technology, he has gained experience in many fields of endeavors in Agriculture, Media and Publicity services, construction, property management, procurement, and supplies, etc.",
-    },
-    {
-      id: 6,
+      id: 4,
       name: "ENGR. PATRICK I. AHUNU",
       title: "ICT System Developer Adviser & Visiting Engineer",
       bio: "Retired from NNPC Kaduna refinery, he is a computer analyst well experienced in ICT development. He served as the deputy manager of ICT planning technologist with highly experienced mechanical technological engineering field work of 35 years before his retirement.",
     },
     {
-      id: 7,
+      id: 5,
       name: "MR. ABIODUN TAYO",
       title: "Deputy Manager / Certified Estate Valuer",
       bio: "A certified member of the Nigeria Institute of Estate Valuers and Surveyors and an Associate Member of the Estate Surveyors and Registration Board of Nigeria. He has put in over fifteen years in the estate business.",
     },
     {
-      id: 8,
+      id: 6,
       name: "MR. AGIDIGBE SUNDAY",
       title: "Field Operation Director",
       bio: "A highly experienced Mechanical Technologist. He is well-grounded and with over thirty-five years on the field of mechanical engineering. He is the Field Operation Director of SALSAL AND NIIMA PROJECT SERVICES LIMITED.",
     },
     {
-      id: 9,
+      id: 7,
       name: "ENGR. SALIHU SARDAUNA SALIHU",
       title: "Administrative Officer, Logistics & Protocol Manager",
       bio: "An Electrical Electronic Engineer and serves as a computer analyst with SALSAL AND NIIMA PROJECT SERVICES LIMITED. He is a co-director and also the administrative officer in charge of logistics and protocol.",
