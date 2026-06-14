@@ -120,54 +120,54 @@ const ServiceCard = ({ service }: { service: CoreService }) => {
 // MAIN EXPORT COMPONENT
 // =========================================================
 const OurWork = () => {
-  const coreServices: CoreService[] = [
-    {
-      id: "01",
-      title: "Dam hydro power turbine engine and water irrigation system.",
-      description:
-        "Comprehensive solutions covering architectural design, structural construction, long-term maintenance, and modern renovations.",
-      imagePlaceholder: [one, two],
-    },
-    {
-      id: "02",
-      title: "Electrification of powerline and soil impact test",
-      description:
-        "Comprehensive solutions covering architectural design, structural construction, long-term maintenance, and modern renovations.",
-      imagePlaceholder: [electone, electtwo, electthree, electfour, electfive],
-    },
-    {
-      id: "03",
-      title: "Water Engineering",
-      description:
-        "Stanton foundations for overhead water tanks, extensive water supply systems, and sustainable water resource development pipelines.",
-      imagePlaceholder: [waterone, watertwo, waterthree],
-    },
-  ];
+ const coreServices: CoreService[] = [
+   {
+     id: "01",
+     title: "Dam hydro power turbine engine and water irrigation system.",
+     description:
+       "Advanced engineering for hydraulic dam infrastructure, turbine installation, and large-scale agricultural irrigation layouts. Focused on delivering optimized water resource management and sustainable clean energy generation pipelines.",
+     imagePlaceholder: [one, two],
+   },
+   {
+     id: "02",
+     title: "Electrification of powerline and soil impact test",
+     description:
+       "High-voltage electrical grid routing and powerline installations backed by rigorous geotechnical site compatibility assessments. Ensuring structural stability, long-term line safety, and minimal environmental impact across diverse terrain types.",
+     imagePlaceholder: [electone, electtwo, electthree, electfour, electfive],
+   },
+   {
+     id: "03",
+     title: "Water Engineering",
+     description:
+       "Precision drafting of high-capacity overhead water tank foundations and extensive municipal supply networks. Specializing in sustainable resource development, treatment facilities, and distribution pipelines for urban and industrial sectors.",
+     imagePlaceholder: [waterone, watertwo, waterthree],
+   },
+ ];
 
   const otherServices: OtherServices[] = [
     {
       id: "04",
       title: "Building & Structures",
       description:
-        "Comprehensive solutions covering architectural design, structural construction, long-term maintenance, and modern renovations.",
+        "Full-cycle development covering architectural design, robust foundation drafting, structural construction, and modern facility renovations. Built to meet global safety standards and endure heavy-duty industrial or commercial use.",
     },
     {
       id: "05",
       title: "Soil & Foundation Engineering",
       description:
-        "Geotechnical site investigations, laboratory testing, specialized piling, precision dredging, and land reclamation frameworks.",
+        "Comprehensive geotechnical site investigations, laboratory analysis, specialized deep piling, and land reclamation frameworks. Providing the critical soil stability testing required to safely support massive structural projects.",
     },
     {
       id: "06",
       title: "Highways & Roads",
       description:
-        "Bulk supply of heavy-duty construction materials and professional road rehabilitation, paving, and infrastructure restoration.",
+        "Professional road design, bulk logistics for heavy-duty asphalt materials, precision paving, and complete infrastructure rehabilitation. Engineered to withstand high-volume commercial transport and extreme environmental stress.",
     },
     {
       id: "07",
       title: "General Contracting",
       description:
-        "Major stockiest of structural steel pipes, sheets, and angle irons for robust installations, backed by global international procurement chains.",
+        "Direct international procurement and distribution of high-grade structural steel pipes, heavy sheets, and iron angle frames. Delivering robust, supply-chain-assured hardware solutions for complex engineering setups.",
     },
   ];
 
