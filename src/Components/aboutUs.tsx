@@ -43,7 +43,7 @@ const AboutUs = () => {
     
     {
       id: 4,
-      name: "ENGR. PATRICK I. AHUNU",
+      name: "ENGR. PATRICK I. AHUNUN",
       title: "ICT System Developer Adviser & Visiting Engineer",
       bio: "Retired from NNPC Kaduna refinery, he is a computer analyst well experienced in ICT development. He served as the deputy manager of ICT planning technologist with highly experienced mechanical technological engineering field work of 35 years before his retirement.",
     },
